@@ -1,0 +1,738 @@
+[
+    {
+        "id": "albedo",
+        "name": "Albedo",
+        "element": "Geo",
+        "weapon": "Sword",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "alhaitham",
+        "name": "Alhaitham",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "nation": "Sumeru",
+        "affiliation": "Sumeru Akademiya"
+    },
+    {
+        "id": "aloy",
+        "name": "Aloy",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "nation": "Unknown",
+        "affiliation": "Wandering Heroine"
+    },
+    {
+        "id": "amber",
+        "name": "Amber",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "arataki-itto",
+        "name": "Arataki Itto",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "nation": "Inazuma",
+        "affiliation": "Arataki Gang Oni"
+    },
+    {
+        "id": "arlecchino",
+        "name": "Arlecchino",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "nation": "Snezhnaya",
+        "affiliation": "Fatui"
+    },
+    {
+        "id": "ayaka",
+        "name": "Kamisato Ayaka",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "nation": "Inazuma",
+        "affiliation": "Yashiro Commission"
+    },
+    {
+        "id": "ayato",
+        "name": "Kamisato Ayato",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "nation": "Inazuma",
+        "affiliation": "Yashiro Commission"
+    },
+    {
+        "id": "baizhu",
+        "name": "Baizhu",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "nation": "Liyue",
+        "affiliation": "Bubu Pharmacy"
+    },
+    {
+        "id": "barbara",
+        "name": "Barbara",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "nation": "Mondstadt",
+        "affiliation": "Church of Favonius"
+    },
+    {
+        "id": "beidou",
+        "name": "Beidou",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "nation": "Liyue",
+        "affiliation": "The Crux"
+    },
+    {
+        "id": "bennett",
+        "name": "Bennett",
+        "element": "Pyro",
+        "weapon": "Sword",
+        "nation": "Mondstadt",
+        "affiliation": "Adventurers' Guild"
+    },
+    {
+        "id": "candace",
+        "name": "Candace",
+        "element": "Hydro",
+        "weapon": "Polearm",
+        "nation": "Sumeru",
+        "affiliation": "Aaru Village"
+    },
+    {
+        "id": "charlotte",
+        "name": "Charlotte",
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "nation": "Fontaine",
+        "affiliation": "The Steambird"
+    },
+    {
+        "id": "chevreuse",
+        "name": "Chevreuse",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "nation": "Fontaine",
+        "affiliation": "Special Security and Surveillance Patrol"
+    },
+    {
+        "id": "chiori",
+        "name": "Chiori",
+        "element": "Geo",
+        "weapon": "Sword",
+        "nation": "Inazuma",
+        "affiliation": "Chioriya Boutique"
+    },
+    {
+        "id": "chongyun",
+        "name": "Chongyun",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "nation": "Liyue",
+        "affiliation": "Liyue Harbor"
+    },
+    {
+        "id": "clorinde",
+        "name": "Clorinde",
+        "element": "Electro",
+        "weapon": "Sword",
+        "nation": "Fontaine",
+        "affiliation": "Trial Court"
+    },
+    {
+        "id": "collei",
+        "name": "Collei",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "nation": "Sumeru",
+        "affiliation": "Avidya Forest Ranger Trainee"
+    },
+    {
+        "id": "cyno",
+        "name": "Cyno",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "nation": "Sumeru",
+        "affiliation": "Temple of Silence"
+    },
+    {
+        "id": "dehya",
+        "name": "Dehya",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "nation": "Sumeru",
+        "affiliation": "The Eremites"
+    },
+    {
+        "id": "diluc",
+        "name": "Diluc",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "nation": "Mondstadt",
+        "affiliation": "Dawn Winery"
+    },
+    {
+        "id": "diona",
+        "name": "Diona",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "nation": "Mondstadt",
+        "affiliation": "The Cat's Tail"
+    },
+    {
+        "id": "dori",
+        "name": "Dori",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "nation": "Sumeru",
+        "affiliation": "Sumeru Merchant"
+    },
+    {
+        "id": "emilie",
+        "name": "Emilie",
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "nation": "Fontaine",
+        "affiliation": "Court of Fontaine"
+    },
+    {
+        "id": "eula",
+        "name": "Eula",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "faruzan",
+        "name": "Faruzan",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "nation": "Sumeru",
+        "affiliation": "Haravatat"
+    },
+    {
+        "id": "fischl",
+        "name": "Fischl",
+        "element": "Electro",
+        "weapon": "Bow",
+        "nation": "Mondstadt",
+        "affiliation": "Adventurers' Guild"
+    },
+    {
+        "id": "freminet",
+        "name": "Freminet",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "nation": "Fontaine",
+        "affiliation": "Hotel Bouffes d'ete"
+    },
+    {
+        "id": "furina",
+        "name": "Furina",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "nation": "Fontaine",
+        "affiliation": "Court of Fontaine"
+    },
+    {
+        "id": "gaming",
+        "name": "Gaming",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "nation": "Liyue",
+        "affiliation": "Sword and Strongbox Secure Transport Agency"
+    },
+    {
+        "id": "ganyu",
+        "name": "Ganyu",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "nation": "Liyue",
+        "affiliation": "Yuehai Pavilion"
+    },
+    {
+        "id": "gorou",
+        "name": "Gorou",
+        "element": "Geo",
+        "weapon": "Bow",
+        "nation": "Inazuma",
+        "affiliation": "Watatsumi Island"
+    },
+    {
+        "id": "hu-tao",
+        "name": "Hu Tao",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "nation": "Liyue",
+        "affiliation": "Wangsheng Funeral Parlor"
+    },
+    {
+        "id": "jean",
+        "name": "Jean",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "kachina",
+        "name": "Kachina",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "nation": "Natlan",
+        "affiliation": "Nanatzcayan"
+    },
+    {
+        "id": "kaeya",
+        "name": "Kaeya",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "kaveh",
+        "name": "Kaveh",
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "nation": "Sumeru",
+        "affiliation": "Independent Design Studio"
+    },
+    {
+        "id": "kazuha",
+        "name": "Kaedehara Kazuha",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "nation": "Inazuma",
+        "affiliation": "The Crux"
+    },
+    {
+        "id": "keqing",
+        "name": "Keqing",
+        "element": "Electro",
+        "weapon": "Sword",
+        "nation": "Liyue",
+        "affiliation": "Liyue Qixing"
+    },
+    {
+        "id": "kinich",
+        "name": "Kinich",
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "nation": "Natlan",
+        "affiliation": "Scions of the Canopy"
+    },
+    {
+        "id": "kirara",
+        "name": "Kirara",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "nation": "Inazuma",
+        "affiliation": "Komaniya Express"
+    },
+    {
+        "id": "klee",
+        "name": "Klee",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "kokomi",
+        "name": "Sangonomiya Kokomi",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "nation": "Inazuma",
+        "affiliation": "Watatsumi Island"
+    },
+    {
+        "id": "kuki-shinobu",
+        "name": "Kuki Shinobu",
+        "element": "Electro",
+        "weapon": "Sword",
+        "nation": "Inazuma",
+        "affiliation": "Arataki Gang"
+    },
+    {
+        "id": "layla",
+        "name": "Layla",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "nation": "Sumeru",
+        "affiliation": "Sumeru Akademiya"
+    },
+    {
+        "id": "lisa",
+        "name": "Lisa",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "lynette",
+        "name": "Lynette",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "nation": "Fontaine",
+        "affiliation": "Hotel Bouffes d'ete"
+    },
+    {
+        "id": "lyney",
+        "name": "Lyney",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "nation": "Fontaine",
+        "affiliation": "Hotel Bouffes d'ete"
+    },
+    {
+        "id": "mika",
+        "name": "Mika",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "mona",
+        "name": "Mona",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "nation": "Mondstadt",
+        "affiliation": "Mondstadt"
+    },
+    {
+        "id": "mualani",
+        "name": "Mualani",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "nation": "Natlan",
+        "affiliation": "Meztli"
+    },
+    {
+        "id": "nahida",
+        "name": "Nahida",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "nation": "Sumeru",
+        "affiliation": "Sumeru City"
+    },
+    {
+        "id": "navia",
+        "name": "Navia",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "nation": "Fontaine",
+        "affiliation": "Spina di Rosula"
+    },
+    {
+        "id": "neuvillette",
+        "name": "Neuvillette",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "nation": "Fontaine",
+        "affiliation": "Court of Fontaine"
+    },
+    {
+        "id": "nilou",
+        "name": "Nilou",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "nation": "Sumeru",
+        "affiliation": "Zubayr Theater"
+    },
+    {
+        "id": "ningguang",
+        "name": "Ningguang",
+        "element": "Geo",
+        "weapon": "Catalyst",
+        "nation": "Liyue",
+        "affiliation": "Liyue Qixing"
+    },
+    {
+        "id": "noelle",
+        "name": "Noelle",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "qiqi",
+        "name": "Qiqi",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "nation": "Liyue",
+        "affiliation": "Bubu Pharmacy"
+    },
+    {
+        "id": "raiden",
+        "name": "Raiden Shogun",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "nation": "Inazuma",
+        "affiliation": "Inazuma City"
+    },
+    {
+        "id": "razor",
+        "name": "Razor",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "nation": "Mondstadt",
+        "affiliation": "Wolvendom"
+    },
+    {
+        "id": "rosaria",
+        "name": "Rosaria",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "nation": "Mondstadt",
+        "affiliation": "Church of Favonius"
+    },
+    {
+        "id": "sara",
+        "name": "Kujou Sara",
+        "element": "Electro",
+        "weapon": "Bow",
+        "nation": "Inazuma",
+        "affiliation": "Tenryou Commission"
+    },
+    {
+        "id": "sayu",
+        "name": "Sayu",
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "nation": "Inazuma",
+        "affiliation": "Shuumatsuban"
+    },
+    {
+        "id": "sethos",
+        "name": "Sethos",
+        "element": "Electro",
+        "weapon": "Bow",
+        "nation": "Sumeru",
+        "affiliation": "Temple of Silence"
+    },
+    {
+        "id": "shenhe",
+        "name": "Shenhe",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "nation": "Liyue",
+        "affiliation": "Liyue Harbor"
+    },
+    {
+        "id": "shikanoin-heizou",
+        "name": "Shikanoin Heizou",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "nation": "Inazuma",
+        "affiliation": "Tenryou Commission"
+    },
+    {
+        "id": "sigewinne",
+        "name": "Sigewinne",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "nation": "Fontaine",
+        "affiliation": "Fortress of Meropide"
+    },
+    {
+        "id": "sucrose",
+        "name": "Sucrose",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "nation": "Mondstadt",
+        "affiliation": "Knights of Favonius"
+    },
+    {
+        "id": "tartaglia",
+        "name": "Tartaglia",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "nation": "Snezhnaya",
+        "affiliation": "Fatui"
+    },
+    {
+        "id": "thoma",
+        "name": "Thoma",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "nation": "Mondstadt",
+        "affiliation": "Yashiro Commission Kamisato Clan"
+    },
+    {
+        "id": "tighnari",
+        "name": "Tighnari",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "nation": "Sumeru",
+        "affiliation": "Gandharva Ville"
+    },
+    {
+        "id": "traveler-anemo",
+        "name": "Traveler",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "nation": "Outlander",
+        "affiliation": "Not affilated to any Nation"
+    },
+    {
+        "id": "traveler-dendro",
+        "name": "Traveler",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "nation": "Outlander",
+        "affiliation": "Not affilated to any Nation"
+    },
+    {
+        "id": "traveler-electro",
+        "name": "Traveler",
+        "element": "Electro",
+        "weapon": "Sword",
+        "nation": "Outlander",
+        "affiliation": "Not affilated to any Nation"
+    },
+    {
+        "id": "traveler-geo",
+        "name": "Traveler",
+        "element": "Geo",
+        "weapon": "Sword",
+        "nation": "Outlander",
+        "affiliation": "Not affilated to any Nation"
+    },
+    {
+        "id": "traveler-hydro",
+        "name": "Traveler",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "nation": "Outlander",
+        "affiliation": "Not affilated to any Nation"
+    },
+    {
+        "id": "venti",
+        "name": "Venti",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "nation": "Mondstadt",
+        "affiliation": "Mondstadt"
+    },
+    {
+        "id": "wanderer",
+        "name": "Wanderer",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "nation": "Sumeru",
+        "affiliation": "None"
+    },
+    {
+        "id": "wriothesley",
+        "name": "Wriothesley",
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "nation": "Fontaine",
+        "affiliation": "Fortress of Meropide"
+    },
+    {
+        "id": "xiangling",
+        "name": "Xiangling",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "nation": "Liyue",
+        "affiliation": "Wanmin Restaurant"
+    },
+    {
+        "id": "xianyun",
+        "name": "Xianyun",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "nation": "Liyue",
+        "affiliation": "Mt. Aocang"
+    },
+    {
+        "id": "xiao",
+        "name": "Xiao",
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "nation": "Liyue",
+        "affiliation": "Liyue Adeptus"
+    },
+    {
+        "id": "xingqiu",
+        "name": "Xingqiu",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "nation": "Liyue",
+        "affiliation": "Feiyun Commerce Guild"
+    },
+    {
+        "id": "xinyan",
+        "name": "Xinyan",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "nation": "Liyue",
+        "affiliation": "Liyue Harbor"
+    },
+    {
+        "id": "yae-miko",
+        "name": "Yae Miko",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "nation": "Inazuma",
+        "affiliation": "Grand Narukami Shrine"
+    },
+    {
+        "id": "yanfei",
+        "name": "Yanfei",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "nation": "Liyue",
+        "affiliation": "Liyue Harbor Adepti"
+    },
+    {
+        "id": "yaoyao",
+        "name": "Yaoyao",
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "nation": "Liyue",
+        "affiliation": "Streetward Rambler's Abode"
+    },
+    {
+        "id": "yelan",
+        "name": "Yelan",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "nation": "Liyue",
+        "affiliation": "Yanshang Teahouse"
+    },
+    {
+        "id": "yoimiya",
+        "name": "Yoimiya",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "nation": "Inazuma",
+        "affiliation": "Naganohara Fireworks"
+    },
+    {
+        "id": "yun-jin",
+        "name": "Yun Jin",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "nation": "Liyue",
+        "affiliation": "Yun-Han Opera Troupe"
+    },
+    {
+        "id": "zhongli",
+        "name": "Zhongli",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "nation": "Liyue",
+        "affiliation": "Liyue Harbor"
+    }
+]
