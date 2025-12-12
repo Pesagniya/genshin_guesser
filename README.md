@@ -9,8 +9,6 @@ A simple Python command-line game where you guess characters from hints. Each ro
 - Randomly selects a character from a JSON dataset.
 - Provides 3 hints per round (among weapon, attribute, element and affiliation).
 
----
-
 ## Requirements
 
 - Python 3.x
